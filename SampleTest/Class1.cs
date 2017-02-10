@@ -9,5 +9,6 @@ namespace SampleTest
     class Class1
     {
         //nbvvb
+       //Console.Writeline("Test");
     }
 }
