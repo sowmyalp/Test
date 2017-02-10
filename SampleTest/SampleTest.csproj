@@ -107,6 +107,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="Class1.cs" />
     <Compile Include="ExcelLib.cs" />
     <Compile Include="Format.cs" />
     <Compile Include="prgm.cs" />
