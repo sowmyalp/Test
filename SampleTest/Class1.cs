@@ -8,5 +8,6 @@ namespace SampleTest
 {
     class Class1
     {
+        //nbvvb
     }
 }
